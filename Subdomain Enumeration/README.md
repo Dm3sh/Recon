@@ -2,6 +2,7 @@
 
 Bash script to automate subdomain reconnaissance for bug bounty and pentesting.  
 It combines multiple tools for enumeration, resolution, and live host discovery, and can send results directly to Telegram Bot.
+
 -----------------------------------------------------------------------
 
 ## Features
@@ -13,3 +14,4 @@ It combines multiple tools for enumeration, resolution, and live host discovery,
 -  DNS resolution with [dnsx]
 -  Live host detection with [httpx]
 -  Notifications to Telegram bot using [notify]
+-----------------------------------------------------------------------
