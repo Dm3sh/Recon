@@ -1,8 +1,7 @@
-## Recon Automation Script
+## Automated Subdomain Reconnaissance Framework
 
 Bash script to automate subdomain reconnaissance for bug bounty and pentesting.  
 It combines multiple tools for enumeration, resolution, and live host discovery, and can send results directly to Telegram Bot.
-
 -----------------------------------------------------------------------
 
 ## Features
